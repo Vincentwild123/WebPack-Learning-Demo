@@ -1,3 +1,10 @@
+# 使用
+1. git clone
+2. cd dirname
+3. npm install
+4  npm install --save-dev postcss-loader autoprefixer@8.0.0
+5. npm run server
+---
 # 在终端中使用webpack
 *命令：npx webpack {entry file} --output {destination for bundle file*
 1. {entry file} 打包入口文件 本例中的main.js
