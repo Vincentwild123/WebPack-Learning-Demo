@@ -2,7 +2,7 @@
 1. git clone
 2. cd dirname
 3. npm install
-4  npm install --save-dev postcss-loader autoprefixer@8.0.0
+4. npm install --save-dev postcss-loader autoprefixer@8.0.0
 5. npm run server
 ---
 # 在终端中使用webpack
